@@ -12,6 +12,7 @@ public class ArticleBlogsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ArticleBlogsApplication.class, args);
+		System.out.println("Addition of Freature");
 	}
 
 	@Bean
